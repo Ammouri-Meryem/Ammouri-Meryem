@@ -8,21 +8,33 @@
 
 ## 🔧 Compétences Techniques
 
-
 **Bases de données & architecture :**  
-- ![Oracle](https://img.shields.io/badge/Oracle-DB-FF0000?style=for-the-badge&logo=oracle&logoColor=white) Oracle Database 19c (RAC, RMAN, Multitenant)  
-- ![SQL](https://img.shields.io/badge/SQL-Developer-003B57?style=for-the-badge&logo=mysql&logoColor=white) SQL Developer  
+- 🗄️ Oracle Database 19c (RAC, RMAN, Multitenant, sauvegarde/restauration)  
+- 💾 SQL Developer (requêtes complexes, optimisation)  
 
-**Infrastructure & outils :**  
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows  
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git  
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) Bash  
-- ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white) PowerShell  
-- ![WinSCP](https://img.shields.io/badge/WinSCP-0078D7?style=for-the-badge&logo=generic&logoColor=white) WinSCP  
-- ![Cisco](https://img.shields.io/badge/Cisco-F57C00?style=for-the-badge&logo=cisco&logoColor=white) Cisco Packet Tracer  
-- ![GNS3](https://img.shields.io/badge/GNS3-1E1E1E?style=for-the-badge&logo=gns3&logoColor=white) GNS3
+**Infrastructure & réseaux :**  
+- 🖥️ Systèmes : Windows / Linux  
+- 🌐 Réseaux : configuration, monitoring, sécurité  
 
+---
+
+## 🛠️ Skills & Tools
+
+![pfSense](https://img.shields.io/badge/-?style=for-the-badge&logo=pfsense&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/-?style=for-the-badge&logo=pi-hole&logoColor=white)
+![NGINX](https://img.shields.io/badge/-?style=for-the-badge&logo=nginx&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-?style=for-the-badge&logo=zabbix&logoColor=white)
+![WinSCP](https://img.shields.io/badge/-?style=for-the-badge&logo=winscp&logoColor=white)
+![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/-?style=for-the-badge&logo=gns3&logoColor=white)
+![Bash](https://img.shields.io/badge/-?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/-?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -40,4 +52,5 @@
 ## 🌐 Contact
 
 - 📧 Email: ammourimaryam8@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/meryem-ammouri-17a424359 
+- 🔗 LinkedIn: [Meryem Ammouri](https://www.linkedin.com/in/meryem-ammouri-17a424359)  
+- 📱 WhatsApp: +212 649962173

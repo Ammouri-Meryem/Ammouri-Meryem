@@ -8,14 +8,21 @@
 
 ## 🔧 Compétences Techniques
 
+
 **Bases de données & architecture :**  
-- 🗄️ Oracle Database 19c (RAC, RMAN, Multitenant, sauvegarde/restauration)  
-- 💾 SQL Developer (requêtes complexes, optimisation)  
+- ![Oracle](https://img.shields.io/badge/Oracle-DB-FF0000?style=for-the-badge&logo=oracle&logoColor=white) Oracle Database 19c (RAC, RMAN, Multitenant)  
+- ![SQL](https://img.shields.io/badge/SQL-Developer-003B57?style=for-the-badge&logo=mysql&logoColor=white) SQL Developer  
 
 **Infrastructure & outils :**  
-- 🖥️ Systèmes : Windows / Linux  
-- 🌐 Réseaux : configuration, monitoring, sécurité  
-- 🛠️ Outils : WinSCP, Git, Bash, PowerShell, Cisco Packet Tracer, GNS3  
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows  
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git  
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) Bash  
+- ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white) PowerShell  
+- ![WinSCP](https://img.shields.io/badge/WinSCP-0078D7?style=for-the-badge&logo=generic&logoColor=white) WinSCP  
+- ![Cisco](https://img.shields.io/badge/Cisco-F57C00?style=for-the-badge&logo=cisco&logoColor=white) Cisco Packet Tracer  
+- ![GNS3](https://img.shields.io/badge/GNS3-1E1E1E?style=for-the-badge&logo=gns3&logoColor=white) GNS3
+
 
 ---
 

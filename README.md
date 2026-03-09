@@ -33,5 +33,5 @@
 ## 🌐 Contact
 
 - 📧 Email: ammourimaryam8@gmail.com  
-- 🔗 LinkedIn: [Meryem Ammouri](www.linkedin.com/in/meryem-ammouri-17a424359)  
-- 📱 WhatsApp: +212 649962173
+- 🔗 LinkedIn: www.linkedin.com/in/meryem-ammouri-17a424359 
+- 📱 WhatsApp: +212 0649962173

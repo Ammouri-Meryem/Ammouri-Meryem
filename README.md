@@ -58,4 +58,4 @@
 
 - 📧 Email: ammourimaryam8@gmail.com  
 - 🔗 LinkedIn: [Meryem Ammouri](https://www.linkedin.com/in/meryem-ammouri-17a424359)  
-- 📱 WhatsApp: +212 649962173
+- 📱 WhatsApp: +212 649-962173

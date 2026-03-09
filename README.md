@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Meryem Ammouri
 
-<!--
-**Ammouri-Meryem/Ammouri-Meryem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Administratrice Systèmes & Réseaux | Oracle Database Junior**  
 
-Here are some ideas to get you started:
+💻 Passionnée par la gestion des systèmes, réseaux et bases de données. Je mets mes compétences en pratique pour créer des environnements sécurisés et performants, en maîtrisant Oracle Database 19c, Oracle RAC et RMAN pour la sauvegarde/restauration. Mon objectif est de continuer à développer mon expertise et à contribuer à des projets concrets dans le domaine de l’informatique et des bases de données.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Compétences Techniques
+
+**Bases de données & architecture :**  
+- 🗄️ Oracle Database 19c (RAC, RMAN, Multitenant, sauvegarde/restauration)  
+- 💾 SQL Developer (requêtes complexes, optimisation)  
+
+**Infrastructure & outils :**  
+- 🖥️ Systèmes : Windows / Linux  
+- 🌐 Réseaux : configuration, monitoring, sécurité  
+- 🛠️ Outils : WinSCP, Git, Bash, PowerShell, Cisco Packet Tracer, GNS3  
+
+---
+
+## 🚀 Projets Académiques & Professionnels
+
+- 🛡️ **Mise en place d’une infrastructure réseau sécurisée** avec pfSense et Pi-hole  
+- 💻 **Développement d’un projet SQL** pour la gestion d’un inventaire réseau  
+- 🗄️ **Conception et structuration de la base de données NetMaint** pour la maintenance réseau  
+- 👥 **Projet en groupe : Gestion d’une Base de Données E-Commerce**  
+- 👥 **Projet en groupe : Gestion de la base de données Oracle pour l'Hôtel Atlas Palace**  
+- 🏥 **Projet en groupe : Système National Intelligent de Gestion de Vaccination**
+
+---
+
+## 🌐 Contact
+
+- 📧 Email: ammourimaryam8@gmail.com  
+- 🔗 LinkedIn: [Meryem Ammouri](www.linkedin.com/in/meryem-ammouri-17a424359)  
+- 📱 WhatsApp: +212 649962173

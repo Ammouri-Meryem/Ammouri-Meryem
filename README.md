@@ -14,7 +14,15 @@
 
 **Infrastructure & réseaux :**  
 - 🖥️ Systèmes : Windows / Linux  
-- 🌐 Réseaux : configuration, monitoring, sécurité  
+- 🌐 Réseaux : configuration, monitoring, sécurité
+- 🛠️ Installation, configuration et administration des serveurs  
+- 🔧 Automatisation des tâches avec Bash / PowerShell  
+- 🛡️ Sécurité des systèmes et réseaux
+- 🌐 Configuration et supervision des réseaux LAN/WAN  
+- 🛡️ Firewall et sécurité réseau (pfSense, Pi-hole)  
+- 📡 Monitoring et gestion des performances (Zabbix, GNS3, Cisco Packet Tracer)  
+- 🌐 Serveurs web et proxy (NGINX)  
+
 
 ---
 

@@ -20,21 +20,18 @@
 
 ## 🛠️ Skills & Tools
 
-![pfSense](https://img.shields.io/badge/-?style=for-the-badge&logo=pfsense&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/-?style=for-the-badge&logo=pi-hole&logoColor=white)
-![NGINX](https://img.shields.io/badge/-?style=for-the-badge&logo=nginx&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-?style=for-the-badge&logo=zabbix&logoColor=white)
-![WinSCP](https://img.shields.io/badge/-?style=for-the-badge&logo=winscp&logoColor=white)
-![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/-?style=for-the-badge&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/-?style=for-the-badge&logo=gns3&logoColor=white)
-![Bash](https://img.shields.io/badge/-?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/-?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-?style=for-the-badge&logo=windows&logoColor=white)
+
+![NGINX](https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DB143B?style=for-the-badge&logo=zabbix&logoColor=white)
+![WinSCP](https://img.shields.io/badge/-WinSCP-1E90FF?style=for-the-badge&logo=winscp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/-Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 

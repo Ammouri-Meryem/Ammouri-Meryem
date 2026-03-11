@@ -1,61 +1,119 @@
-# 👋 Bonjour, je suis Meryem Ammouri
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=meryem-ammouri&color=00D310&style=flat" alt="Profile views" />
+</p>
 
-**Administratrice Systèmes & Réseaux | Oracle Database Junior**  
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=650&height=70&duration=3000&pause=70&lines=Hello+👋;I'm+Meryem+Ammouri;Systems+and+Network+Administrator;Oracle+Database+Junior;" />
+</h1>
 
-💻 Passionnée par la gestion des systèmes, réseaux et bases de données. Je mets mes compétences en pratique pour créer des environnements sécurisés et performants, en maîtrisant Oracle Database 19c, Oracle RAC et RMAN pour la sauvegarde/restauration. Mon objectif est de continuer à développer mon expertise et à contribuer à des projets concrets dans le domaine de l’informatique et des bases de données.
-
----
-
-## 🔧 Compétences Techniques
-
-**Bases de données & architecture :**  
-- 🗄️ Oracle Database 19c (RAC, RMAN, Multitenant, sauvegarde/restauration)  
-- 💾 SQL Developer (requêtes complexes, optimisation)  
-
-**Infrastructure & réseaux :**  
-- 🖥️ Systèmes : Windows / Linux  
-- 🌐 Réseaux : configuration, monitoring, sécurité
-- 🛠️ Installation, configuration et administration des serveurs  
-- 🔧 Automatisation des tâches avec Bash / PowerShell  
-- 🛡️ Sécurité des systèmes et réseaux
-- 🌐 Configuration et supervision des réseaux LAN/WAN  
-- 🛡️ Firewall et sécurité réseau (pfSense, Pi-hole)  
-- 📡 Monitoring et gestion des performances (Zabbix, GNS3, Cisco Packet Tracer)  
-- 🌐 Serveurs web et proxy (NGINX)  
-
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+# 👩‍💻 About Me
 
+👋 Welcome!  
+I am **Meryem Ammouri**, a **Technicienne Spécialisée en Infrastructure Digitale – option Systèmes & Réseaux** and **Oracle Database Junior Administrator**.
 
-![NGINX](https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-Zabbix-DB143B?style=for-the-badge&logo=zabbix&logoColor=white)
-![WinSCP](https://img.shields.io/badge/-WinSCP-1E90FF?style=for-the-badge&logo=winscp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/-Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Passionate about **IT infrastructure, network administration, and database management**, I enjoy building secure and reliable systems.  
+
+My goal is to design and maintain **efficient infrastructures, secure networks, and high-performance Oracle databases** while continuously improving my technical skills.
 
 ---
 
-## 🚀 Projets Académiques & Professionnels
+# 🛠 Technical Skills
 
-- 🛡️ **Mise en place d’une infrastructure réseau sécurisée** avec pfSense et Pi-hole  
-- 💻 **Développement d’un projet SQL** pour la gestion d’un inventaire réseau  
-- 🗄️ **Conception et structuration de la base de données NetMaint** pour la maintenance réseau  
-- 👥 **Projet en groupe : Gestion d’une Base de Données E-Commerce**  
-- 👥 **Projet en groupe : Gestion de la base de données Oracle pour l'Hôtel Atlas Palace**  
-- 🏥 **Projet en groupe : Système National Intelligent de Gestion de Vaccination**
+## 💾 Database Administration
+
+- Oracle Database 19c  
+- Oracle RAC  
+- RMAN Backup & Recovery  
+- Oracle Multitenant Architecture  
+- SQL Query Optimization  
+- Data Modeling  
+- Database Performance Monitoring  
 
 ---
 
-## 🌐 Contact
+## 🌐 Network Administration
 
-- 📧 Email: ammourimaryam8@gmail.com  
-- 🔗 LinkedIn: [Meryem Ammouri](https://www.linkedin.com/in/meryem-ammouri-17a424359)  
-- 📱 WhatsApp: +212 649-962173
+- LAN / WAN configuration  
+- Network troubleshooting  
+- VLAN configuration  
+- Network monitoring  
+- Network security  
+
+---
+
+## 🖥 System Administration
+
+Operating Systems:
+
+- Linux  
+- Windows Server  
+- Oracle Linux  
+
+Tasks:
+
+- Server installation and configuration  
+- User and permissions management  
+- System monitoring  
+- Security configuration  
+
+---
+
+## 📡 Monitoring & Web Infrastructure
+
+- NGINX Web Server  
+- Zabbix Monitoring  
+- Infrastructure supervision  
+- Log analysis  
+
+
+---
+
+# 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,bash,powershell,nginx" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Developer-red?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PiHole-DNS-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/meryem-ammouri-17a424359">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="mailto:ammourimaryam8@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+</a>
+
+<a href="https://wa.me/212649962173">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
